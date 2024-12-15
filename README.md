@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, typescript and javascript**
 
-- 📫 How to reach me **connectdevamit@gmail.com**
+- 📫 How to reach me **contact@devamitranjan.in**
 
 - ⚡ Fun fact **Being a full-stack developer feels like crafting both the recipe and the final dish!**
 
